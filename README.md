@@ -36,8 +36,10 @@ Here are some ideas to get you started:
 ## 📚 My Projects
 
 Check out my top repositories:
-- [Java-Schulprojekte](https://github.com/Schockigame/Java-Schulprojekte) – Java projects for school and learning.
 - [Toolset](https://github.com/Schockigame/Toolset) – Handy tools and utilities.
+
+In Progress (not public):
+- [Java-Schulprojekte](https://github.com/Schockigame/Java-Schulprojekte) – Java projects for school and learning.
 - [muenzen-app](https://github.com/Schockigame/muenzen-app) – Coin collection app.
 - [ReallySimpleCalculator](https://github.com/Schockigame/ReallySimpleCalculator) – A straightforward calculator.
 - [Python-projekts](https://github.com/Schockigame/Python-projekts) – Python experiments and projects.
